@@ -1,0 +1,4 @@
+id,name,price,quantity
+1,coconut,15,10
+2,wiwi,15,13
+3,mayoz,15,10

@@ -1,0 +1,8 @@
+1,ram,9818136462,kirtipur
+2,shyam,988136425,balkhu
+3,hari,9815136425,sanepa
+4,karma,9834345634,baneshor
+5,mahesh,9438457343,koteshor
+6,karuna,9128345835,balaju
+7,gopal,9238294957,nayabazar
+

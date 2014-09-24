@@ -1,0 +1,4 @@
+id,type,qunatity
+1,cash,10
+2,credit,15
+3,cash,20
